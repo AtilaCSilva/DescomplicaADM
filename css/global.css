@@ -10,8 +10,9 @@ h2,
 h3,
 p, ul,
 li, dd, 
-a, blockquote {
+a, blockquote, input, button {
   margin: 0;
+  padding: 0;
 }
 
 ul {

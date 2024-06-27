@@ -1,0 +1,47 @@
+.aboutus-bg {
+  padding: 80px 60px;
+}
+
+.aboutus-content {
+  display: flex;
+  align-items: center;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px 160px;
+}
+
+.atila, .karen {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  gap: 32px;
+
+  font-size: 20px;
+  line-height: 1.4;
+  align-self: flex-start;
+  background-color: #FCFCFC;
+  border-radius: 6px;
+  padding: 30px;
+  box-shadow: 1px 1px 2px 1px rgba(68, 68, 68, 0.1);
+}
+
+.subtitle {
+  font-size: 40px;
+  font-weight: bold;
+  grid-column: 1/-1;
+}
+
+.img-box img {
+  width: 186px;
+  height: auto;
+}
+
+@media (max-width: 1000px) {
+  .content {
+    grid-template-columns: 1fr;
+  }
+}
