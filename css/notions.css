@@ -23,19 +23,19 @@
   padding: 30px;
   background-color: #F1F1F1;
   border-radius: 6px;
+  position: relative;
+  font-family: 'Roboto';
 }
 
 .notions-problem img {
   max-width: 280px;
   object-fit: cover;
-
 }
 
 .notions-soluctions h2 {
   font-size: 40px;
   grid-column: 1/-1;
   color: #E9E9E9;
-
 }
 
 .notions-soluctions>p {
@@ -43,6 +43,7 @@
   font-size: 20px;
   grid-column: 1/-1;
   margin-bottom: 40px;
+  font-family: 'Roboto';
 
 }
 
@@ -51,8 +52,29 @@
   background-color: #F1F1F1;
   border-radius: 6px;
   padding: 30px;
+  position: relative;
+  font-family: 'Roboto';
+
 }
 
+.second::before, .first::before, .notions-problem::before {
+  content: "";
+  display: block;
+  width: 7px;
+  height: 120px;
+  border-radius: 6px;
+  background-color: #EB2E2E;
+  position: absolute;
+  left: -1%;
+}
+
+.second::before {
+  top: 10%;
+}
+
+.first::before {
+  top: 15%;
+}
 
 @media (max-width: 940px) {
   .notions {

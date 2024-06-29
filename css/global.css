@@ -9,7 +9,7 @@ h1,
 h2,
 h3,
 p, ul,
-li, dd, 
+li, dd,
 a, blockquote, input, button {
   margin: 0;
   padding: 0;
@@ -43,3 +43,8 @@ img[src$=".jpg"] {
   padding-right: 20px;
 }
 
+.subtitle {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Nunito', sans-serif;
+}

@@ -23,6 +23,8 @@
   border-top-right-radius: 6px;
   border-bottom-right-radius: 6px;
   position: relative;
+  font-family: 'Roboto';
+
 }
 
 .text-one::after {

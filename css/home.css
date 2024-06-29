@@ -1,5 +1,6 @@
 .header-bg {
   background-color: #fff;
+  font-family: 'Nunito', sans-serif;
 }
 
 .header {
@@ -68,7 +69,6 @@
 @media (max-width: 600px) {
   .header-menu {
     gap: 12px;
-    min-width: 400px;
   }
 
   .header-menu a {

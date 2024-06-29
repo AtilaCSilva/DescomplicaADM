@@ -21,6 +21,8 @@
   font-size: 40px;
   max-width: 30ch;
   text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
 }
 
 .intro-content div {
@@ -35,6 +37,8 @@
 
 .intro-content div p {
   color: white;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 500;
 }
 
 @media (max-width: 800px) {

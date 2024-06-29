@@ -18,11 +18,15 @@
 
 .text-content h2 {
   font-size: 40px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
 }
 
 .text-content p {
   font-size: 20px;
   line-height: 1.4;
+  font-family: 'Roboto';
+
 }
 
 .point {
