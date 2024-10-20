@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
- Um projeto de blog feito para um trabalho do senai, em que envolvia criar um blog sobre uma unidade curricular do curso. A instrutura nos aconselhou utilizar IA para a criação, porém preferi me desafiar a criar na mão ( também porque sou raiz 😎) e fazer do meu jeito. Ficou simples, parece mais um site do que um blog, mas foi sucesso!
+ Um projeto de blog feito para um trabalho do senai, em que envolvia criar um blog sobre uma unidade curricular do curso. A instrutora nos aconselhou utilizar IA para a criação, porém preferi me desafiar a criar na mão ( também porque sou raiz 😎) e fazer do meu jeito. Ficou simples, parece mais um site do que um blog, mas foi sucesso!
 
 ![preview](./.github/preview.png)
 
