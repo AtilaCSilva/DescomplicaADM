@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito com ♥ by Atila Silva :wave: [Caso tenha interesse, meu insta👉🏼](https://www.instagram.com/athilasils/)
+Feito com ♥ by Atila Silva :wave: [Meu insta👉🏼](https://www.instagram.com/athilasils/)
